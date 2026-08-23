@@ -9,7 +9,7 @@
 ## 🛠 Технологии
 
 - Next.js
-- [React / Redux Toolkit / TanStack Query — оставь то, что реально использовано]
+- [React / Redux Toolkit / TanStack Query]
 - [CSS-подход: Tailwind / Sass / CSS Modules?]
 
 ## ⚙️ Функционал
@@ -22,7 +22,7 @@
 
 ## 📸 Скриншоты
 
-`[Главная страница](./screenshots/Снимок экрана 2026-08-23 135146.png")`
+![Главная страница](./screenshots/ecobazar.png)
 
 ## 🚀 Запуск локально
 
