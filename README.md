@@ -1,22 +1,37 @@
-## Ecobazar
+<img width="1346" height="917" alt="Снимок экрана 2026-08-23 135146" src="https://github.com/user-attachments/assets/6a057571-9819-4726-96df-2bed0f06ac42" /># 🛒 Ecobazar
 
-**Используемые технологии:**
+Интернет-магазин эко-товаров на Next.js.
 
-**Frontend**: Next js, React, Tailwind
-**Размещение**: Vercel
+## 🌐 Демо
 
-**Особенности**:
-1. Поиск продуктов
-2. Список продуктов
-3. Категория продуктов
-4. Без адаптива
-5. Добавить в корзину
-6. Корзина
+👉 https://next-syte-z2q2-six.vercel.app/
 
-**Посмотреть сайт можно по этой ссылке**['https://next-syte-z2q2-crffhct48-joyl-scripts-projects.vercel.app/']
+## 🛠 Технологии
 
-**Контакты**
-**Email**: majpotejto@gmail.com
-**Телефон**: 89886290851
-**tg**: @Pqakwsij
+- Next.js
+- [React / Redux Toolkit / TanStack Query — оставь то, что реально использовано]
+- [CSS-подход: Tailwind / Sass / CSS Modules?]
+
+## ⚙️ Функционал
+
+-  Каталог товаров
+-  Карточка товара
+-  Корзина
+-  Фильтрация / поиск
+
+
+## 📸 Скриншоты
+
+`!("C:\Users\majpo\OneDrive\Изображения\Снимки экрана\Снимок экрана 2026-08-23 135146.png")`
+
+## 🚀 Запуск локально
+
+```bash
+git clone https://github.com/joyl-script/next-syte.git
+cd next-syte
+npm install
+npm run dev
+```
+
+Открыть [http://localhost:3000](http://localhost:3000)
 
