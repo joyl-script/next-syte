@@ -4,7 +4,7 @@
 
 ## 🌐 Демо
 
-👉 https://next-syte-z2q2-six.vercel.app/
+👉 https://joyl-script.github.io/next-syte/
 
 ## 🛠 Технологии
 
